@@ -1,4 +1,4 @@
-package com.string.part1;
+package com.string;
 
 public class FindtheIndexoftheFirstOccurrenceinaString {
 
